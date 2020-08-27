@@ -41,6 +41,9 @@ header{
     display: inline;
     margin-top: -2em;
 }
+.text-mic {
+    margin-left: 8em;
+}
 
 #modded .progress {
     min-height: 36px;
